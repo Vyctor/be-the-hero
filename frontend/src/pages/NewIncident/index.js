@@ -36,7 +36,6 @@ export default function NewIncident() {
       alert(error);
     }
   }
-
   return (
     <div className="new-incident-container">
       <div className="content">
